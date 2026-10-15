@@ -12,7 +12,7 @@ no custom code, only theme settings, section groups and JSON templates.
 | White crumpled paper background | `assets/bda-paper-background.jpg` as section background image (home hero, collection heading) |
 | Bordeaux tint over the interior photo | Hero section, overlay style **gradient**, `#5c0018e6` |
 | Transducer / Poppins sans | Poppins 400 / 600 / 700 (body, subheading, heading) |
-| Espiritu brush script | Yellowtail (accent font, used by `h1` and `h3` presets) |
+| Espiritu brush script | Kaushan Script (accent font, used by `h1` and `h3` presets) |
 | Square 1px outlined buttons | Primary button: transparent, 1px bordeaux border, radius 0 |
 | 10px form fields, 12px panels | `inputs_border_radius: 10`, `popover_border_radius: 12` |
 
